@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: yw_springboot3 Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 杨文
+Implementation-Vendor-Id: springboot3
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
